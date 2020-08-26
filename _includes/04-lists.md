@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+### Here's a list of my favourite things:
+* Playing computer games
+* Playing board games
+* Procastinating
